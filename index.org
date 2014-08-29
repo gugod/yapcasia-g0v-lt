@@ -1,0 +1,144 @@
+* g0v .tw 零時政府
+
+Beyond Civic Hacking
+
+@gugod
+
+http://g0v.asia/tw
+http://g0v.tw
+(with 💟 from @clkao, @au, & 1000+ people)
+
+* Civic Hacking ?
+
+Civic Hacker
+
+n. One who collaborates with others to create,
+build, and invent open source solutions using
+publicly-released data, code and technology to
+solve challenges relevant to their neighborhood,
+city, state, or country.
+
+ref: http://en.wiktionary.org/wiki/civic_hacker
+
+* g0v facts
+
+Taiwan-based community
+
+24 Mounths
+20+ Hackathons
+1000+ Contributors
+  30% Activists/gov
+  40% Developers
+  40% Designers
+30+ Projects
+30+ Talks
+
+* g0v project 中央政府總預算
+gov Budget dynamic visualization
+http://budget.g0v.tw
+[[file:project-budget.png]]
+
+
+* g0v project 開放政治獻金:
+Crowd OCR of polital donation report.
+http://campaign-finance.g0v.ctiml.tw/
+10k ppl cleared data for 7 MPs within 24hrs
+[[file:project-ocr.png]]
+[[file:project-ocr-example-page.png]]
+
+* g0v project 國會大代誌
+Congress meeting / sitting
+http://ly.g0v.tw/
+[[file:project-ly.png]]
+
+* g0v project 立委投票指南
+Summerize of Congress member votes
+http://vote.ly.g0v.tw
+[[file:project-ly-vote.png]]
+
+* g0v project 公務人員出國考察
+Summerize of the activity of our
+civil servents visiting foriegn countries.
+http://report.nat.g0v.tw
+[[file:project-abroadplay.png]]
+
+* g0v project 台灣公司關係圖
+Visualizae the relations between big companies
+http://company-graph.g0v.ronny.tw/
+[[file:project-company-graph.png]]
+
+* g0v project 萌典
+Much⁹ Better Dictionary UI for dictionary from Ministry of Education.
+http://moedict.tw
+[[file:project-moedict.png]]
+
+* g0v project 環境
+Visualize our enviromental mersurement
+Air, Rain, background radiation.
+http://env.g0v.tw/
+[[file:project-env.png]]
+
+* g0v project 全國重度級急診即時看板
+Visualize the availability of ER rooms
+in public hospitals (31 hospitals)
+http://er.mohw.g0v.tw/
+[[file:project-er.png]]
+
+* g0v: A LOT OF PROJECTS
+
+http://g0v.tw/en-US/projects.html
+
+http://g0v.tw/
+* Online - but disconnected
+
+By 2011, 75% online Taiwanease are using Facebook.
+
+However, netizens remained pessimistic about the
+potential of existing social media outlets and
+portals to spark civic empowerment — or even
+engagement — online.
+
+* Online - but disconnected
+
+WIRED magazine: Do you see Facebook as an
+instrument to encourage civic engagement?
+
+Chang Ta-Chuen (張大春): No, I can most definitely
+say, absolutely not. It makes citizens feel as if
+they have participated. […] I still can’t see how
+an actual, practical activism can succeed at
+engaging people, as lazy as we are.
+
+* g0v
+
+What should the government be like 
+in the 22nd century?
+
+* Participate 参加する
+
+粗略的共識
+進擊の程式
+
+    -- @au
+
+Rough concencius,
+Runnable program.
+
+* g0v effect
+
+- press interests (udn, appledaily, ...)
+- feedback http://data.gov.tw
+- gov interests
+
+
+* g0v moto
+
+    As not why nobody is doing this,
+    ask youself to be that nobody.
+
+* OKTHXBYE
+
+
+    http://g0v.tw
+
+    irc:// freenode / #g0v.tw
