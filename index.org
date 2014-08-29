@@ -121,8 +121,8 @@ in the 22nd century?
 
     -- @au
 
-Rough concencius,
-Runnable program.
+Rough concensus,
+Running code.
 
 * g0v effect
 
@@ -133,7 +133,7 @@ Runnable program.
 
 * g0v moto
 
-    As not why nobody is doing this,
+    Ask not why nobody is doing this,
     ask youself to be that nobody.
 
 * OKTHXBYE
